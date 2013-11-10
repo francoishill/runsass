@@ -1,4 +1,4 @@
-sassrunner
+What is this
 ==========
 
-Will run sass on all the sass files inside a folder and its subfolders.
+This is just a simple wrapper to run SASS on a complete directory. It is dependant on SASS to be installed and running. It also requires SASS to be available in your PATH Environment variable.
